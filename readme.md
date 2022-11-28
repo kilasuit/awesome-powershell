@@ -119,7 +119,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Communities
 
-### Online only
+### Online
 * [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
 * [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
 * [Slack / Discord PowerShell community](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on Libera.Chat
@@ -129,6 +129,9 @@ It includes a command-line shell and an associated scripting language.
 * PowerShell UK - more coming soon.
 * [London PowerShell User Group](https://www.meetup.com/powershell-london-uk/) - One of the Uk PowerShell UserGroups
 * [DSC Community](https://dsccommunity.org/) - The community for all things PowerShell Desired State Configuration
+
+### In Person
+* more coming soon
 
 ## Data
 
