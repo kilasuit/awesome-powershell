@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
-A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resources.
+A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resource, forked from the original implementer [janikvonrotz](https://github.com/janikvonrotz) & will be expanded on as time goes on.
 
 PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
 It includes a command-line shell and an associated scripting language.
