@@ -84,6 +84,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Build Tools
 
+* [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell module builder framework
 * [psake](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
 * [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
@@ -118,10 +119,16 @@ It includes a command-line shell and an associated scripting language.
 
 ## Communities
 
+### Online only
 * [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
 * [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
-* [Slack PowerShell team](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
+* [Slack / Discord PowerShell community](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on Libera.Chat
+
+### Hybrid
 * [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/) - Very active PowerShell and automation user group. Meets on first and third Wednesdays. All skill levels welcome.
+* PowerShell UK - more coming soon.
+* [London PowerShell User Group](https://www.meetup.com/powershell-london-uk/) - One of the Uk PowerShell UserGroups
+* [DSC Community](https://dsccommunity.org/) - The community for all things PowerShell Desired State Configuration
 
 ## Data
 
@@ -171,6 +178,7 @@ It includes a command-line shell and an associated scripting language.
 * [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
 * [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.
 * [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+* [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell module builder framework
 
 ## Package Managers
 
