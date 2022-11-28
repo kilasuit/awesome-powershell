@@ -1,9 +1,11 @@
 on:
+  push:
+    branches:
+      - main
   pull_request:
     branches:
       - main
-      - 'release/**'
-
+      
 name: Check for broken links
 jobs:
   markdown-link-check:
